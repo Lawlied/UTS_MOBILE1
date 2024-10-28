@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_TAUFIKHIDAYAT1</string>
+    <string name="status">Status</string>
+    <string name="masukkan_deskripsi">Masukkan Deskripsi</string>
+    <string name="nama_agenda">Nama Agenda</string>
+    <string name="masukkan_nama_agenda">Masukkan Nama Agenda</string>
+    <string name="simpan">Simpan</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
